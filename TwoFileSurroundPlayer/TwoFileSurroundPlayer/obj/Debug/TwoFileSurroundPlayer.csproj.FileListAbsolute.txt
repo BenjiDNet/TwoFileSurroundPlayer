@@ -1,0 +1,10 @@
+D:\Daten\VS\TwoFileSurroundPlayer\TwoFileSurroundPlayer\TwoFileSurroundPlayer\bin\Debug\TwoFileSurroundPlayer.exe.config
+D:\Daten\VS\TwoFileSurroundPlayer\TwoFileSurroundPlayer\TwoFileSurroundPlayer\obj\Debug\TwoFileSurroundPlayer.csprojResolveAssemblyReference.cache
+D:\Daten\VS\TwoFileSurroundPlayer\TwoFileSurroundPlayer\TwoFileSurroundPlayer\obj\Debug\TwoFileSurroundPlayer.Properties.Resources.resources
+D:\Daten\VS\TwoFileSurroundPlayer\TwoFileSurroundPlayer\TwoFileSurroundPlayer\obj\Debug\TwoFileSurroundPlayer.csproj.GenerateResource.Cache
+D:\Daten\VS\TwoFileSurroundPlayer\TwoFileSurroundPlayer\TwoFileSurroundPlayer\bin\Debug\TwoFileSurroundPlayer.exe
+D:\Daten\VS\TwoFileSurroundPlayer\TwoFileSurroundPlayer\TwoFileSurroundPlayer\bin\Debug\TwoFileSurroundPlayer.pdb
+D:\Daten\VS\TwoFileSurroundPlayer\TwoFileSurroundPlayer\TwoFileSurroundPlayer\bin\Debug\NAudio.dll
+D:\Daten\VS\TwoFileSurroundPlayer\TwoFileSurroundPlayer\TwoFileSurroundPlayer\bin\Debug\NAudio.xml
+D:\Daten\VS\TwoFileSurroundPlayer\TwoFileSurroundPlayer\TwoFileSurroundPlayer\obj\Debug\TwoFileSurroundPlayer.exe
+D:\Daten\VS\TwoFileSurroundPlayer\TwoFileSurroundPlayer\TwoFileSurroundPlayer\obj\Debug\TwoFileSurroundPlayer.pdb
